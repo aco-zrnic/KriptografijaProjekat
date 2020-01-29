@@ -1,0 +1,9 @@
+D:\Visual Studio 2018\ProjekniKripto\Projekni\Projekni\bin\Debug\Projekni.exe.config
+D:\Visual Studio 2018\ProjekniKripto\Projekni\Projekni\bin\Debug\Projekni.exe
+D:\Visual Studio 2018\ProjekniKripto\Projekni\Projekni\bin\Debug\Projekni.pdb
+D:\Visual Studio 2018\ProjekniKripto\Projekni\Projekni\bin\Debug\BouncyCastle.Crypto.dll
+D:\Visual Studio 2018\ProjekniKripto\Projekni\Projekni\obj\Debug\Projekni.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2018\ProjekniKripto\Projekni\Projekni\obj\Debug\Projekni.csproj.CopyComplete
+D:\Visual Studio 2018\ProjekniKripto\Projekni\Projekni\obj\Debug\Projekni.exe
+D:\Visual Studio 2018\ProjekniKripto\Projekni\Projekni\obj\Debug\Projekni.pdb
+D:\Visual Studio 2018\ProjekniKripto\Projekni\Projekni\obj\Debug\Projekni.csprojAssemblyReference.cache
